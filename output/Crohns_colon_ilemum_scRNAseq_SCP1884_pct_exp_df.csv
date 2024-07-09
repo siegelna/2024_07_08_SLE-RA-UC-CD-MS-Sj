@@ -1,0 +1,23 @@
+"Immune Cell","TIGIT","PVR","CD226","PDCD1","CD274"
+"Tregs",34.885,0.134,3.291,4.976,1.231
+"CD8+ Tcm",13.588,0.194,2.385,1.858,0.25
+"CD4+ Tcm",14.752,0,3.494,4.891,0.311
+"CD8+ Tem",10.473,0.044,2.769,3.609,0.442
+"CD4+ Tem",3.234,0.07,3.756,3.339,0.626
+"CD4+ T-cells",5.949,0,2.8,3.062,0.35
+"CD8+ T-cells",1.795,0,1.616,1.257,0.18
+"NK cells",12.047,0,0.725,0.362,0
+"DC",0,0,0,0,0
+"Plasma cells",6.731,0,1.923,0,0
+"CLP",1.02,0,1.02,0,0
+"Class-switched memory B-cells",0,0,0,0,0
+"Monocytes",20,0,0,0,0
+"Epithelial cells",0,0,0,0,0
+"Erythrocytes",0,0,0,0,0
+"naive B-cells",0,0,0,0,0
+"HSC",0,0,0,0,0
+"Memory B-cells",0,0,0,0,0
+"Macrophages",100,0,0,0,0
+"GMP",0,0,0,0,0
+"Macrophages M1",0,0,0,0,0
+"Megakaryocytes",0,0,0,0,0
